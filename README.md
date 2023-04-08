@@ -1,5 +1,5 @@
 # NoteApp
-
+A simple app designed with vuejs to keep notes
 ## Project Setup
 
 ```sh
